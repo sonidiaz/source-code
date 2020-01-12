@@ -57,7 +57,7 @@ const Accordion = () => {
 export { Accordion };
 ````
 
-EN el componente CommentGroup ...
+Componente CommentsGroup.
 
 ````
 import React, { useState, useEffect } from "react";
