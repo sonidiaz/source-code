@@ -1,8 +1,10 @@
 # Muestra de trozos de codigo y extraidos de proyectos construidos.
 
 Componente Accordion.
-Obtiene los post de la api
-Hace un reduce para ordenenar los datos
+
+⋅⋅* Obtiene datos de la API
+⋅⋅* Hace un reduce para ordenenar los datos por el postId
+⋅⋅* Mapea el resultado con el componente CommentsGroup
 
 
 ````
