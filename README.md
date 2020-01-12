@@ -2,9 +2,9 @@
 
 Componente Accordion.
 
-⋅⋅* Obtiene datos de la API
-⋅⋅* Hace un reduce para ordenenar los datos por el postId
-⋅⋅* Mapea el resultado con el componente CommentsGroup
+* Obtiene datos de la API
+* Hace un reduce para ordenenar los datos por el postId
+* Mapea el resultado con el componente CommentsGroup
 
 
 ````
