@@ -87,12 +87,7 @@ const CommentsGroup = ({ element, index, comments }) => {
       </CSSTransition>
     ));
   };
-  useEffect(() => {
-    // console.log('montado');
-    return () => {
-      // console.log('desmontado');
-    }
-  }, [tabActive]);
+
   const hundleTabs = () => {
     (!tabActive) ? seTabActive('active') : seTabActive('');
     (!showActiveTab) ? setActiveTab(true) : setActiveTab(false);
